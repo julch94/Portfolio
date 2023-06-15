@@ -44,15 +44,4 @@ Maybe include older weak projects as a list?
 
 ## Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-## Example Flow Diagram 
-
-'''mermaid
-flowchart
-    A[Start in Nest] -->|Decide Turn Order| B(Begin Turn)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
-'''	
+![Branching](https://docs.github.com/assets/cb-23923/mw-1440/images/help/repository/branching.webp)

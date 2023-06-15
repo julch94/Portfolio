@@ -21,7 +21,7 @@
 title: Portfolio | Nick Julch
 email: julch94@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio for Nick Julch using GitHub Pages, Ruby, and Jekyll
+  Game Development and Design Portfolio for Nick Julch
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NONE

@@ -27,23 +27,24 @@ This portfolio outlines some of the projects I have developed over the last few 
 
 # **Professional Experience**
 
-Current Career: 
+**Current Career:** 
 
-*	Systems Engineering
+Systems Engineering
 
-Degree: 
+**Degree:** 
 
-*   B.S. Mechanical Engineering, Minor in Electrical and Computer Engineering - University of Oklahoma 2016
+B.S. Mechanical Engineering
+*	Minor in Electrical and Computer Engineering - University of Oklahoma 2016
 
-Work Experience:
+**Work Experience:**
 
-*	2014-2014: LongWave Inc - Mechanical Engineering Intern
-*	2015-2015: Raytheon Missile Systems - Mechanical Engineering Intern
-*   2016-2018: Raytheon Missile Systems - Mechanical Engineer
-*	2018-2020: Boeing - Systems Engineer, Interfaces
-* 	2020-2021: Boeing - Systems Engineer, Integration and Test Lead
-*	2021-2023: Boeing - Systems Engineer, Project Engineer
 *	2023-Current: Boeing - Systems Engineer, Avionics Systems Engineering Integration and Test (SEIT) Team Lead and Project Engineer
+*	2021-2023: Boeing - Systems Engineer, Project Engineer
+* 	2020-2021: Boeing - Systems Engineer, Integration and Test Lead
+*	2018-2020: Boeing - Systems Engineer, Interfaces
+*   2016-2018: Raytheon Missile Systems - Mechanical Engineer
+*	2015-2015: Raytheon Missile Systems - Mechanical Engineering Intern
+*	2014-2014: LongWave Inc - Mechanical Engineering Intern
 
 ---
 
@@ -54,6 +55,8 @@ Each project listed below is accompanied with a brief overview of my game design
 ## Ultimate Prey
 
 Ultimate Prey Info Here - talk about how I've built on previous projects to get here and leaning on more existing resources
+
+[Gameplay and More - Click Here](/ultimate_prey/)
 
 ## Chick Game
 

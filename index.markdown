@@ -62,9 +62,20 @@ Ultimate Prey Info Here - talk about how I've built on previous projects to get 
 
 ## Chick Game
 
-Chick Game Info Here - talk about collaboration, design, and planning, talk about previous projects building into this, and using existing resources
+![Chick Game Banner](/julch94.github.io/_assets/chick_game_25.png)
 
 [Gameplay and More for Chick Game - Click Here](/chick_game/)
+
+Chick Game is an FPS where you play as a rooster who must care and tend to his hens and chicks during the day and defend the coop at night from waves of different predators. 
+
+**Top 5 Skills and Lessons Learned:**
+*   Developing useful milestones and projects using GitHub
+*   Creating custom animations in both Blender and Unity using models from the Unity Asset Store
+*   Unity Audio System
+*   Developing design documentation for another developer to implement
+*   Troubleshooting complex game logic and developing custom solutions to do so
+
+Made with Unity, C#, Blender, and a mix of free and paid assets.
 
 ## Waifu Hunter 2077
 

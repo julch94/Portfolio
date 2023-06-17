@@ -62,7 +62,7 @@ Ultimate Prey Info Here - talk about how I've built on previous projects to get 
 
 ## Chick Game
 
-![Chick Game Banner](/julch94.github.io/_assets/chick_game_25.png)
+![Chick Game Banner](/assets/chick_game_25.png)
 
 [Gameplay and More for Chick Game - Click Here](/chick_game/)
 

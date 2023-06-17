@@ -56,17 +56,28 @@ Each project listed below is accompanied with a brief overview of my game design
 
 ## Ultimate Prey
 
-Ultimate Prey Info Here - talk about how I've built on previous projects to get here and leaning on more existing resources
+![Ultimate Prey Banner](/assets/ultimate_prey.png)
 
 [Gameplay and More for Ultimate Prey - Click Here](/ultimate_prey/)
 
+Ultimate Prey is a battle-royale meets party meets survival game. This game is intended to be played multiplayer with a single Host player acting as the lobby leader for Clients to connect to. The objective of the game is to find the key and escape the island filled with hunters and other threats. To do so, the players must use these threats against the other players and take advantage of the item chests that spawn across the map. Only one player can escape and be the winner.
+
+**Top 5 Skills and Lessons Learned:**
+*   State Machines and Behavior Trees
+*   LOD Models
+*   Multiplayer Networking
+*   Developing and utilizing re-usable functions, scripts (including some utilities), and prefabs
+*   Play-testing and gathering feedback
+
+Made with Unity, C#, Audacity, Mirror Networking for Unity, and a mix of free and paid assets
+
 ## Chick Game
 
-![Chick Game Banner](/assets/chick_game_25.png)
+![Chick Game Banner](/assets/chick_game.png)
 
 [Gameplay and More for Chick Game - Click Here](/chick_game/)
 
-Chick Game is an FPS where you play as a rooster who must care and tend to his hens and chicks during the day and defend the coop at night from waves of different predators. 
+Chick Game is an FPS where you play as a rooster who must care and tend to his hens and chicks during the day and defend the coop at night from waves of different predators. During the day time the player collects buffs to their damage, health, and move speed to aid them in their defense of the coop at night against raccoons, foxes, and other threats. The player is armed with a Rooster-grade shotgun and their own claws at night to defend the coop - if the predators reach the coop and attack it for too long, the flock begins to die and the game will be lost.
 
 **Top 5 Skills and Lessons Learned:**
 *   Developing useful milestones and projects using GitHub

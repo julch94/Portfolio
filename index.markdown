@@ -56,28 +56,37 @@ Each project listed below is accompanied with a brief overview of my game design
 
 Ultimate Prey Info Here - talk about how I've built on previous projects to get here and leaning on more existing resources
 
-[Gameplay and More - Click Here](/ultimate_prey/)
+[Gameplay and More for Ultimate Prey - Click Here](/ultimate_prey/)
 
 ## Chick Game
 
 Chick Game Info Here - talk about collaboration, design, and planning, talk about previous projects building into this, and using existing resources
 
+[Gameplay and More for Chick Game - Click Here](/chick_game/)
+
 ## Waifu Hunter 2077
 
 Waifu Hunter 2077 info Here - talk about leap into Unity, Git, C#, and Networking
 
-## GG 2
+[Gameplay and More for Waifu Hunter 2077 - Click Here](/waifu_hunter_2077/)
+
+## GG2
 
 Talk about the emphasis on DESIGN and struggles of development
+
+[Gameplay and More for GG2 - Click Here](/gg2/)
 
 ## GG 
 
 GG info here - talk about it being my first real game I planned and finished
 
+[Gameplay and More for GG - Click Here](/gg/)
 
 ### Smaller Projects
 
 Create a single link here to Smaller Projects where I just put all of these on one page
+
+[Gameplay and More for Smaller Projects - Click Here](/smaller_projects/)
 
 1.  **GG3** - Info here
 2.  **10 Clicks Red** - Info here
@@ -86,11 +95,7 @@ Create a single link here to Smaller Projects where I just put all of these on o
 5.  **Pacman Clone in College** - Info Here if I can get anything - talk about using C and the crap KISS compiler
 6.  **D&D Tool** - Info here - talk about why I made it, learning GameMaker, and how it was a fun tool
 
+---
 
-## Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-## Large image
-
-![Branching](https://docs.github.com/assets/cb-23923/mw-1440/images/help/repository/branching.webp)
+~ Thanks for reading ~

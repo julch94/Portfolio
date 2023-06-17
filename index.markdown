@@ -7,6 +7,8 @@ layout: default
 
 # **About Me**
 
+*E-mail Address:* julch94@gmail.com
+
 My name is Nick Julch and I am a professional Systems Engineer and hobbyist Game Designer and Developer.
 
 Throughout my career in engineering I've primarily practiced design, integration, and test of complex electrical, mechanical, and software integrated systems. My key skills and tool proficiencies related to Game Design and Development include:

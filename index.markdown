@@ -86,19 +86,41 @@ Chick Game is an FPS where you play as a rooster who must care and tend to his h
 *   Developing design documentation for another developer to implement
 *   Troubleshooting complex game logic and developing custom solutions to do so
 
-Made with Unity, C#, Blender, and a mix of free and paid assets.
+Made with Unity, C#, Audacity, Blender, and a mix of free and paid assets.
 
 ## Waifu Hunter 2077
 
-Waifu Hunter 2077 info Here - talk about leap into Unity, Git, C#, and Networking
+![Waifu Hunter 2077 Banner](/assets/waifu_hunter_2077.png)
 
 [Gameplay and More for Waifu Hunter 2077 - Click Here](/waifu_hunter_2077/)
 
+Waifu Hunter 2077 was my first project in Unity and I jumped right in on a multiplayer PVE FPS game. It's a game where you and some friends load into a few levels and defeat waves of enemies. Thought not a very complicated game, multiplayer networking is extremely complicated compared to the typical subjects a new developer must tackle. The co-creator of this game also introduced me to Git which I learned so we could collaborate on this game. 
+
+**Top 5 Skills and Lessons Learned:**
+*   Git and GitHub
+*   Implement multiplayer networking solutions from an existing design
+*   Unity Animation System
+*   Working with Unity Asset Store assets
+*	Collaborating with another developer and properly splitting responsibilities
+
+Made with Unity, C#, Mirror Networking for Unity, and all free assets.
+
 ## GG2
 
-Talk about the emphasis on DESIGN and struggles of development
+![GG2 Banner](/assets/gg2.png)
 
 [Gameplay and More for GG2 - Click Here](/gg2/)
+
+GG2 is a top down dungeon crawler built to run in a web browser using HTML5. You play as a mage who must explore each level, collecting new abilities and upgrades, and defeat 3 main bosses to get to the final boss. This game was my final project using the GameMaker engine. If I spent just one day to work on an upgrade to this game it would be to scrap most of the enemies from each level and fix the monitor sync rate issue. This would let the cool bosses and systems of the game really shine. 
+
+**Top 5 Skills and Lessons Learned:**
+*   Quality over quantity
+*   Platform testing and understanding hardware impacts
+*   Using resource packs and adapting them to your needs
+*   Level and system design
+*	GameMaker was great to learn with but it was time to move to Unity or Unreal Engine
+
+Made with GameMaker, C++/GML, and a mix of hand-made and free assets.
 
 ## GG 
 

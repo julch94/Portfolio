@@ -124,24 +124,36 @@ Made with GameMaker, C++/GML, and a mix of hand-made and free assets.
 
 ## GG 
 
-GG info here - talk about it being my first real game I planned and finished
+![GG Banner](/assets/gg.png)
 
 [Gameplay and More for GG - Click Here](/gg/)
 
-### Smaller Projects
+GG is a 2D side-scroller inspired by those frustrating flash game with stupid obstacles/puzzles and expectation for you to die, learn, repeat, and eventually win. It is my first complete video game  I made from start to finish. I made this game using GameMaker as a free and accessible engine and learned a lot about programming for game development using the C++ knock-off, GameMaker Language (GML). It was also my first experience mapping out the scope of a game including the number of levels, enemy types, objectives, mechanics, and more. I added Easter eggs and a game run timer and challenged my friends and family to be the first to find all the Easter eggs and have the fastest run by some determined date. I also asked them all for feedback on the game. I rewarded the winners with $10 Amazon cards which was a fun way to thank my friends and family for helping me improve as a game designer and developer. 
 
-Create a single link here to Smaller Projects where I just put all of these on one page
+**Top 5 Skills and Lessons Learned:**
+*   Reignited my programming skills and gave me an opportunity to design a game
+*   Planning, designing, and developing an entire (very simple) game
+*   Using a game engine
+*   Playtesting and feedback
+*	Simple is good - fun is better
+
+Made with GameMaker, C++/GML, and a mix of hand-made and free assets.
+
+## Smaller Projects
+
+![Smaller Projects Banner](/assets/smaller_projects.png)
 
 [Gameplay and More for Smaller Projects - Click Here](/smaller_projects/)
 
-1.  **GG3** - Info here
-2.  **10 Clicks Red** - Info here
-3.  **Spacey Launcher Game** - Info here
-4.  **Don't Shoot the Princess** - Info Here
-5.  **Pacman Clone in College** - Info Here if I can get anything - talk about using C and the crap KISS compiler
-6.  **D&D Tool** - Info here - talk about why I made it, learning GameMaker, and how it was a fun tool
+1.  **GG3** - I wanted to make a short, well organized (no spaghetti code) platformer protoype and found all of the rough edges of GameMaker
+2.  **10 Clicks Red** - I made this quick reaction game in the passenger seat of a rental car while I was riding all over South Korea for a work trip
+3.  **Spacey Launcher Game** - One of my early dives into Unity, I made this game as a shoutout to a sling-shot space launcher game I used to play back in computer lab during school
+4.  **Don't Shoot the Princess** - This is was another Unity test project I made while on a trip to Texas visiting family. I wanted to handmake (literally) some assets so I drew out the background on a piece of paper to use for the game
+5.  **PAC-MAN Clone** - This is the first video game I ever made and it's a very poor PAC-MAN clone. I used the KISS (KIPR Instructional Software System) IDE from my computer programming class to submit this as my final project
+6.  **D&D Tool** - My friends and I had no supplies, little cash, and a lot of interest in learning D&D. So we googled away and I whipped up a tool comparable to a (very) budget Roll20 knock-off. 
 
 ---
 
 
 ~ Thanks for reading ~
+

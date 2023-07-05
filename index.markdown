@@ -13,13 +13,14 @@ My name is Nick Julch and I am a professional Systems Engineer and hobbyist Game
 
 Throughout my career in engineering I've primarily practiced design, integration, and test of complex electrical, mechanical, and software integrated systems. My key skills and tool proficiencies related to Game Design and Development include:
 
-*	C# and C
+*	C, C#, and Lua
 *	Unity
 *	Git and GitHub
+*	Systems Design
+* System Integration and Test
+* Troubleshooting and Debugging
 *	Technical Writing
 *	Engineering Leadership
-*	System Integration and Test
-*	Troubleshooting and Debugging
 
 Though my professional experience does not include any game design or development, I have been designing and/or developing games since my childhood. My passion is making things work together. At work this means complex avionics systems and teams of engineers and integrators. In my personal work this means using a variety of tools and resources developed by others to create something fun and interesting - *a game*. 
 
